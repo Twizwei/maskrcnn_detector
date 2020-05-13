@@ -12,7 +12,7 @@ git clone https://github.com/Twizwei/maskrcnn_detector
 ## Step 2: Install maskrcnn-benchmark
 Please follow the instructions [here](https://github.com/facebookresearch/maskrcnn-benchmark) to install the maskrcnn-benchmark for 2D object detection.
 
-### Step 3: Install dependency for 3D-Bbox
+## Step 3: Install dependency for 3D-Bbox
 ```
 pip install tensorboardx future
 ```
