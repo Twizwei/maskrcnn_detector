@@ -51,6 +51,7 @@ def pred_with_weight(args):
             print('skipping', out_json)
             continue
         checkpointer = DetectronCheckpointer(cfg, model)
+#         print(weight)
         _ = checkpointer.load(weight)
 
         iou_types = ("bbox",)
