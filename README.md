@@ -1,7 +1,5 @@
 # maskrcnn_detector
-For 3D BBox inputs. Thanks to [Hongyuan](https://github.com/dashidhy) for implementing [deep 3D bbox](https://github.com/dashidhy/3D-BBox).
-
-This repo is trying to implement the pipeline proposed by the paper [3D Bounding Box Estimation Using Deep Learning and Geometry](https://arxiv.org/pdf/1612.00496.pdf).
+This repo is trying to implement the pipeline proposed by the paper [3D Bounding Box Estimation Using Deep Learning and Geometry](https://arxiv.org/pdf/1612.00496.pdf). Thanks to [Hongyuan](https://github.com/dashidhy) for implementing [deep 3D bbox](https://github.com/dashidhy/3D-BBox).
 
 ## Step 1: Download
 
